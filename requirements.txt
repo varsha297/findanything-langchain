@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+psycopg[binary]
+pydantic
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+pypdf
+pymupdf
+boto3
